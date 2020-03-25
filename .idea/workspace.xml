@@ -2,6 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="73453182-14b6-46ee-8133-21a0a3c46d8a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/HomePageTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/HomePageTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/css/base-style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/js/report.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chromedriver" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/HomePageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/HomePageTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +61,11 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.123456776" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/chromedriver" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -60,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HomePageTest.LoginWrongCredentialsTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="HomePageTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;HomePageTest.LoginWrongCredentialsTest&quot; --stacktrace" />
+        <option name="scriptParameters" value="--tests &quot;HomePageTest&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -80,12 +100,12 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="HomePageTest.titleTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="HomePageTest.outputTitle" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;HomePageTest.titleTest&quot;" />
+        <option name="scriptParameters" value="--tests &quot;HomePageTest.outputTitle&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -140,11 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.Testing [dependencies]" />
-        <item itemvalue="Gradle.Testing [test]" />
         <item itemvalue="Application.HomePageTest" />
-        <item itemvalue="Gradle.HomePageTest.LoginWrongCredentialsTest" />
-        <item itemvalue="Gradle.HomePageTest.titleTest" />
+        <item itemvalue="Gradle.HomePageTest.outputTitle" />
+        <item itemvalue="Gradle.HomePageTest" />
+        <item itemvalue="Gradle.Testing [test]" />
+        <item itemvalue="Gradle.Testing [dependencies]" />
       </list>
     </recent_temporary>
   </component>
@@ -166,33 +186,107 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
   </component>
   <component name="WindowStateProjectService">
+    <state x="344" y="29" key="#Inspections" timestamp="1585111861311">
+      <screen x="0" y="23" width="1680" height="943" />
+    </state>
+    <state x="344" y="29" key="#Inspections/0.23.1680.943@0.23.1680.943" timestamp="1585111861311" />
+    <state x="756" y="29" key="#Notifications" timestamp="1585177830239">
+      <screen x="0" y="23" width="1680" height="943" />
+    </state>
+    <state x="756" y="29" key="#Notifications/0.23.1680.943@0.23.1680.943" timestamp="1585177830239" />
+    <state x="447" y="174" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585108895722">
+      <screen x="0" y="23" width="1680" height="943" />
+    </state>
+    <state x="447" y="174" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1680.943@0.23.1680.943" timestamp="1585108895722" />
+    <state x="367" y="58" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1585111050852">
+      <screen x="0" y="23" width="1680" height="943" />
+    </state>
+    <state x="367" y="58" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.23.1680.943@0.23.1680.943" timestamp="1585111050852" />
+    <state x="798" y="37" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1585172572078">
+      <screen x="0" y="23" width="1680" height="943" />
+    </state>
+    <state x="798" y="37" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.23.1680.943@0.23.1680.943" timestamp="1585172572078" />
+    <state x="489" y="219" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1585111827964">
+      <screen x="0" y="23" width="1680" height="943" />
+    </state>
+    <state x="489" y="219" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.23.1680.943@0.23.1680.943" timestamp="1585111827964" />
     <state x="817" y="23" key="CommitChangelistDialog2" timestamp="1585022801251">
       <screen x="0" y="23" width="1680" height="943" />
     </state>
     <state x="817" y="23" key="CommitChangelistDialog2/0.23.1680.943@0.23.1680.943" timestamp="1585022801251" />
-    <state width="932" height="216" key="GridCell.Tab.0.bottom" timestamp="1585086933382">
+    <state x="760" y="123" width="793" height="482" key="DiffContextDialog" timestamp="1585178253352">
       <screen x="0" y="23" width="1680" height="943" />
     </state>
-    <state width="932" height="216" key="GridCell.Tab.0.bottom/0.23.1680.943@0.23.1680.943" timestamp="1585086933382" />
-    <state width="932" height="216" key="GridCell.Tab.0.center" timestamp="1585086933382">
+    <state x="760" y="123" width="793" height="482" key="DiffContextDialog/0.23.1680.943@0.23.1680.943" timestamp="1585178253352" />
+    <state x="959" y="270" key="Github.CreateGistDialog" timestamp="1585178974762">
       <screen x="0" y="23" width="1680" height="943" />
     </state>
-    <state width="932" height="216" key="GridCell.Tab.0.center/0.23.1680.943@0.23.1680.943" timestamp="1585086933382" />
-    <state width="932" height="216" key="GridCell.Tab.0.left" timestamp="1585086933382">
+    <state x="959" y="270" key="Github.CreateGistDialog/0.23.1680.943@0.23.1680.943" timestamp="1585178974762" />
+    <state width="951" height="207" key="GridCell.Tab.0.bottom" timestamp="1585179187511">
       <screen x="0" y="23" width="1680" height="943" />
     </state>
-    <state width="932" height="216" key="GridCell.Tab.0.left/0.23.1680.943@0.23.1680.943" timestamp="1585086933382" />
-    <state width="932" height="216" key="GridCell.Tab.0.right" timestamp="1585086933382">
+    <state width="1638" height="216" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1585088809797" />
+    <state width="951" height="207" key="GridCell.Tab.0.bottom/0.23.1680.943@0.23.1680.943" timestamp="1585179187511" />
+    <state width="951" height="153" key="GridCell.Tab.0.bottom/0.23.1680.944@0.23.1680.944" timestamp="1585178830796" />
+    <state width="951" height="207" key="GridCell.Tab.0.center" timestamp="1585179187510">
       <screen x="0" y="23" width="1680" height="943" />
     </state>
-    <state width="932" height="216" key="GridCell.Tab.0.right/0.23.1680.943@0.23.1680.943" timestamp="1585086933382" />
+    <state width="1638" height="216" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1585088809796" />
+    <state width="951" height="207" key="GridCell.Tab.0.center/0.23.1680.943@0.23.1680.943" timestamp="1585179187510" />
+    <state width="951" height="153" key="GridCell.Tab.0.center/0.23.1680.944@0.23.1680.944" timestamp="1585178830795" />
+    <state width="951" height="207" key="GridCell.Tab.0.left" timestamp="1585179187510">
+      <screen x="0" y="23" width="1680" height="943" />
+    </state>
+    <state width="1638" height="216" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1585088809796" />
+    <state width="951" height="207" key="GridCell.Tab.0.left/0.23.1680.943@0.23.1680.943" timestamp="1585179187510" />
+    <state width="951" height="153" key="GridCell.Tab.0.left/0.23.1680.944@0.23.1680.944" timestamp="1585178830795" />
+    <state width="951" height="207" key="GridCell.Tab.0.right" timestamp="1585179187511">
+      <screen x="0" y="23" width="1680" height="943" />
+    </state>
+    <state width="1638" height="216" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1585088809797" />
+    <state width="951" height="207" key="GridCell.Tab.0.right/0.23.1680.943@0.23.1680.943" timestamp="1585179187511" />
+    <state width="951" height="153" key="GridCell.Tab.0.right/0.23.1680.944@0.23.1680.944" timestamp="1585178830796" />
+    <state width="951" height="207" key="GridCell.Tab.1.bottom" timestamp="1585179187512">
+      <screen x="0" y="23" width="1680" height="943" />
+    </state>
+    <state width="951" height="207" key="GridCell.Tab.1.bottom/0.23.1680.943@0.23.1680.943" timestamp="1585179187512" />
+    <state width="951" height="207" key="GridCell.Tab.1.center" timestamp="1585179187511">
+      <screen x="0" y="23" width="1680" height="943" />
+    </state>
+    <state width="951" height="207" key="GridCell.Tab.1.center/0.23.1680.943@0.23.1680.943" timestamp="1585179187511" />
+    <state width="951" height="207" key="GridCell.Tab.1.left" timestamp="1585179187511">
+      <screen x="0" y="23" width="1680" height="943" />
+    </state>
+    <state width="951" height="207" key="GridCell.Tab.1.left/0.23.1680.943@0.23.1680.943" timestamp="1585179187511" />
+    <state width="951" height="207" key="GridCell.Tab.1.right" timestamp="1585179187511">
+      <screen x="0" y="23" width="1680" height="943" />
+    </state>
+    <state width="951" height="207" key="GridCell.Tab.1.right/0.23.1680.943@0.23.1680.943" timestamp="1585179187511" />
+    <state x="914" y="93" key="RollbackChangesDialog" timestamp="1585178002272">
+      <screen x="0" y="23" width="1680" height="943" />
+    </state>
+    <state x="914" y="93" key="RollbackChangesDialog/0.23.1680.943@0.23.1680.943" timestamp="1585178002272" />
+    <state x="656" y="23" key="SettingsEditor" timestamp="1585178020689">
+      <screen x="0" y="23" width="1680" height="943" />
+    </state>
+    <state x="656" y="23" key="SettingsEditor/0.23.1680.943@0.23.1680.943" timestamp="1585178020689" />
+    <state x="756" y="104" key="Vcs.Push.Dialog.v2" timestamp="1585177812596">
+      <screen x="0" y="23" width="1680" height="943" />
+    </state>
+    <state x="756" y="104" key="Vcs.Push.Dialog.v2/0.23.1680.943@0.23.1680.943" timestamp="1585177812596" />
+    <state x="760" y="123" width="793" height="482" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1585178253352">
+      <screen x="0" y="23" width="1680" height="943" />
+    </state>
+    <state x="760" y="123" width="793" height="482" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1680.943@0.23.1680.943" timestamp="1585178253352" />
     <state x="588" y="336" key="com.intellij.ide.util.TipDialog" timestamp="1583445357433">
       <screen x="0" y="23" width="1680" height="943" />
     </state>
@@ -201,5 +295,17 @@
       <screen x="0" y="23" width="1680" height="943" />
     </state>
     <state x="899" y="23" key="refactoring.ChangeSignatureDialog/0.23.1680.943@0.23.1680.943" timestamp="1585086841588" />
+    <state x="821" y="162" key="run.anything.popup" timestamp="1585178156790">
+      <screen x="0" y="23" width="1680" height="943" />
+    </state>
+    <state x="821" y="162" key="run.anything.popup/0.23.1680.943@0.23.1680.943" timestamp="1585178156790" />
+    <state x="344" y="30" key="scopes" timestamp="1585111317923">
+      <screen x="0" y="23" width="1680" height="943" />
+    </state>
+    <state x="344" y="30" key="scopes/0.23.1680.943@0.23.1680.943" timestamp="1585111317923" />
+    <state x="821" y="164" width="670" height="676" key="search.everywhere.popup" timestamp="1585178151643">
+      <screen x="0" y="23" width="1680" height="943" />
+    </state>
+    <state x="821" y="164" width="670" height="676" key="search.everywhere.popup/0.23.1680.943@0.23.1680.943" timestamp="1585178151643" />
   </component>
 </project>
